@@ -16,7 +16,7 @@
 | \|\|  | CONCAT within the same row  | SELECT name \|\| ' works as a ' \|\| job  |
 | ~  | Matches regular expression  | WHERE product_code ~ '^[A-Z]{2}[0-9]{4}$'  |
 
-Need a bridge between Excel and SQL? [SQL Excel translator](https://github.com/kixwho/SQL-Excel-translator)
+Need more practical recipes? [SQL Excel translator](https://github.com/kixwho/SQL-Excel-translator)
 
 ## Practice resources
 [LeetCode SQL 50 study plan](https://leetcode.com/studyplan/top-sql-50/) covers all the essential patterns :)
